@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "rama :: hai sita!"
+echo "sita :: hai rama"
+echo "rama :: plz come to our home sita"
+echo "sita :: no rama!..now i thought my mother's home is safe for me.take your two sons.i am going."
+echo "rama :: sita..please dont do that.i know i had done a mistake.please forgive me."
+echo "sita :: no rama.you choosed your poor people rather than me.you didn't think about my pregnency even.!you broken my heart and came after these painfull years.dont you think how your children looked like?how cruel!!"
+echo "rama :: sita.. plz think about my situation once.accept my apolozies!!"
+echo "dharani :: hey sita! my girl!how r u now?i come here to bring you our home.come with me my love!!"
+echo "rama :: sita....plz dont go i beg you to stay with me..plz...."
+echo "sita :: i already decided with whoom i should stay with rama.plz dont force me."
+echo "NOW SITA WENT WITH HER MOTHER DHARANI GAVE THE 2 CHILDRN TO RAMA"
